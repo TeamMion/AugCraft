@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "augcraft",
+        "name": "AugCraft",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [ "Stefan Wimmer" ],
+        "credits": "Copywight (c) 2016, Team Mion",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
